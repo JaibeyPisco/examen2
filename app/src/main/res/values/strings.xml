@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hamburgesas Pepito</string>
+    <string name="titleApp">¿Qué hamburgesa deseas?</string>
+    <string name="btn">Comprar</string>
+
+
+    <!--Complementos-->
+    <string name="complementos">¿Que complementos deseas?</string>
+    <string name="papas">Papas fritas</string>
+    <string name="hotdog">hot dog</string>
+    <string name="tomate">Tomate</string>
+    <string name="queso">Queso</string>
+    <string name="huevo">Huevo Frito</string>
+
+    <!--Seccion salsa-->
+    <string name="salsa">¿Que salsas deseas?</string>
+    <string name="ketchup">Ketchup</string>
+    <string name="mayonesa">Mayonesa</string>
+    <string name="mostaza">Mostaza</string>
+
+
+
+
+
+
+
+</resources>
